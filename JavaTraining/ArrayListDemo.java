@@ -28,7 +28,7 @@ public class ArrayListDemo {
 		//Testing
 		System.out.println(ald.contains("Testing"));
 		System.out.println("Git");
-		System.out.println("Git");
+		System.out.println("Hi");
 
 		System.out.println("Git");
 		System.out.println("Git");
