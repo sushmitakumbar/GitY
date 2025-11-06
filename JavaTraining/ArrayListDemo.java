@@ -28,6 +28,12 @@ public class ArrayListDemo {
 		//Testing
 		System.out.println(ald.contains("Testing"));
 		System.out.println("Git");
+		System.out.println("Git");
+
+		System.out.println("Git");
+		System.out.println("Git");
+
+		
 
 		
 		System.out.println(ald.indexOf("Pratham"));
